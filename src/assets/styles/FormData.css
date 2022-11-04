@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+div{
+    background: black;
+    padding: 5px;
+    color: white;
+}
+
+input{
+    width: 200px;
+    padding: 5px;
+    background-color: black;
+    border-color: white;
+    color: white;
+}
